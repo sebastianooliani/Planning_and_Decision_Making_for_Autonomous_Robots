@@ -5,6 +5,6 @@ Main topics:
 - BFS, DFS, Iterative Deepening, Uniform Cost Search, A*
 - Dynamic Programming (Policy iteration, Value Iteration)
 - Dubins paths, Reeds-Shepp paths
-- collision check
+- Collision checker
 - MILP
 - RRT*
